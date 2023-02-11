@@ -1,2 +1,2 @@
 # globalsealevel
-Final project of 'Applied Machine Learning'
+## This is part of an academic project, please do not use it directly in your code.
